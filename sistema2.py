@@ -88,7 +88,7 @@ def verInicio():
     labelFecha.place(x=300, y=138)
     reloj()
 verInicio()
-###VENTA###
+###VENTA### 
 def verVentas():
     limpiarFrames()
     frameVentas.pack(fill=BOTH,expand=1)
