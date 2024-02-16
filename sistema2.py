@@ -50,7 +50,7 @@ def limpiarFrames():
     frameVentas.pack_forget()
     frameCambios.pack_forget()
     frameLista.pack_forget()
-###INICIO###
+###INICIO### 
 def verInicio():
     limpiarFrames()
     frameInicio.pack(fill=BOTH,expand=1)
