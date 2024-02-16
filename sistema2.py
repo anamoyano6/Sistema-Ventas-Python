@@ -327,7 +327,7 @@ def verCambios():
                              relief="ridge",width=24)
         botonEliminar.place(x=490,y=300)           
     cambios()
-###LISTA### 
+###LISTA###  
 def verLista():
     limpiarFrames()
     frameLista.pack(fill=BOTH,expand=1)
