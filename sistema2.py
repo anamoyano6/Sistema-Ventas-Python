@@ -400,7 +400,7 @@ def verLista():
         listaArticulos.place(x=10,y=10,width=600,height=400)
     lista()
 
-#BOTONES PRINCIPALES
+#BOTONES PRINCIPALES 
 imagenGuardar1 = PhotoImage(file="imagenes/inicio3.png")
 botonInicio = Button(frameBotones, bg=colorVerde,text="Inicio",
                      command=verInicio
