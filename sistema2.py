@@ -192,7 +192,7 @@ def verVentas():
         botonVender.place(x=40,y=420)
         
     venta()
-###CAMBIOS###
+###CAMBIOS### 
 def verCambios():
     limpiarFrames()
     frameCambios.pack(fill=BOTH,expand=1)
