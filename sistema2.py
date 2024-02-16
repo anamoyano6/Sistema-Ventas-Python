@@ -133,6 +133,7 @@ def verVentas():
             seleccionar = listaCarrito.curselection()
             if seleccionar:
                 listaCarrito.delete(seleccionar)
+        ##TICKET##
         def ticket():
             horaActual = time.strftime("%H%M%S")
             fechaActual = time.strftime("%d%m%Y")
