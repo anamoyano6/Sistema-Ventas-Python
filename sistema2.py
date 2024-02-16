@@ -226,7 +226,7 @@ def verCambios():
                         bg=colorBase,fg=colorGris2)
         entryStock = Entry(frameCambios, font=("Swis721 BT",12),
                 bg=colorBase, fg=colorVerde2,width=15)
-        #pposicion
+        #posicion
         entryBuscador.place(x=15,y=60)
         labelCodigo.place(x=25,y=150)
         entryCodigo.place(x=10,y=180)
