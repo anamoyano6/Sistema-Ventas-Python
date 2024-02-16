@@ -44,7 +44,7 @@ frameCambios.pack(fill=BOTH,expand=1)
 frameLista = Frame(frameBase,bg=colorBase)
 frameLista.pack(fill=BOTH,expand=1)
 
-#borrar frames
+#BORRAR FRAMES
 def limpiarFrames():
     frameInicio.pack_forget()
     frameVentas.pack_forget()
