@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import messagebox, ttk, Label
 import tkinter as tk
 import sqlite3
-import docx
 import time
 from docx import Document
 from reportlab.pdfgen import canvas
