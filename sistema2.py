@@ -27,6 +27,7 @@ ventana.title("Sistema Ventas")
 ventana.config(bg=colorBase2)
 ventana.geometry("800x500")
 ventana.resizable(0,0)
+ventana.iconbitmap("imagenes/logo2v.ico")
 #frames
 frame1 = Frame(ventana,bg=colorGris)
 frame1.pack(side=TOP,fill=X,ipady=10)
